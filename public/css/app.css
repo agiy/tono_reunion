@@ -1,0 +1,14 @@
+.t-center {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  width: 90%;
+}
+
+.greyscale {
+  filter: grayscale(1);
+  -webkit-filter: grayscale(1);
+}
+
