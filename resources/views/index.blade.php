@@ -2,23 +2,21 @@
 
 @section('content')
 
-    <nav>
+    <nav class="green">
         <div class="nav-wrapper container">
-            <a href="#!" class="brand-logo center">Logo</a>
+            <a href="#" class="brand-logo">Reunion Tono</a>
 
             <a href="#" data-activates="mobile-demo" class="button-collapse"><i class="material-icons">menu</i></a>
             <ul class="right hide-on-med-and-down">
-                <li><a href="sass.html">Sass</a></li>
-                <li><a href="badges.html">Components</a></li>
-                <li><a href="collapsible.html">Javascript</a></li>
-                <li><a href="mobile.html">Mobile</a></li>
+                <li><a href="#first">Sass</a></li>
+                <li><a href="#second">Components</a></li>
+                <li><a href="#google-form">Form</a></li>
             </ul>
 
             <ul class="side-nav" id="mobile-demo">
                 <li><a href="sass.html">Sass</a></li>
                 <li><a href="badges.html">Components</a></li>
-                <li><a href="collapsible.html">Javascript</a></li>
-                <li><a href="mobile.html">Mobile</a></li>
+                <li><a href="#google-form">Form</a></li>
             </ul>
         </div>
     </nav>
@@ -31,10 +29,6 @@
                 <div class="row center">
                     <h5 class="header col s12 light">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do</h5>
                 </div>
-                <div class="row center">
-                    <a href="#" class="btn-large waves-effect waves-light purple lighten-1">Find more</a>
-                </div>
-                <br><br>
 
             </div>
         </div>
@@ -88,12 +82,12 @@
         </div>
 
 
-
-    <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSduBvUfhW7XphgI3EAeoFGpMnObDnZR4LNsA3N9UIw_h8TdbQ/viewform?embedded=true" width="100%" height="1200" frameborder="0" marginheight="0" marginwidth="0">読み込んでいます...</iframe>
-
+        <div id="google-form">
+            <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSduBvUfhW7XphgI3EAeoFGpMnObDnZR4LNsA3N9UIw_h8TdbQ/viewform?embedded=true" width="100%" height="1200" frameborder="0" marginheight="0" marginwidth="0">読み込んでいます...</iframe>
+        </div>
     </div>
 
-    <footer class="page-footer">
+    <footer class="page-footer green">
         <div class="container">
             <div class="row">
                 <div class="col l6 s12">
