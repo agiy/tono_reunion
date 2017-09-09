@@ -12,3 +12,81 @@
   -webkit-filter: grayscale(1);
 }
 
+.dark {
+  -webkit-filter: brightness(50%);
+  filter: brightness(50%);
+}
+
+.blur {
+  -webkit-filter: blur(3px);
+  filter: blur(3px);
+}
+
+.t-margin-bottom {
+  margin-bottom: 100px;
+}
+
+/* ========================================================================
+   Component: Flex
+ ========================================================================== */
+
+.uk-flex {
+  display: -ms-flexbox;
+  display: -webkit-box;
+  display: flex;
+}
+
+.uk-flex-inline {
+  display: -ms-inline-flexbox;
+  display: -webkit-inline-box;
+  display: inline-flex;
+}
+
+/*
+ * Remove pseudo elements created by micro clearfix as precaution
+ */
+
+.uk-flex::before,
+.uk-flex::after,
+.uk-flex-inline::before,
+.uk-flex-inline::after {
+  display: none;
+}
+
+/* Alignment
+ ========================================================================== */
+
+/*
+ * Align items along the main axis of the current line of the flex container
+ * Row: Horizontal
+ */
+
+.uk-flex-left {
+  -ms-flex-pack: start;
+  -webkit-box-pack: start;
+          justify-content: flex-start;
+}
+
+.uk-flex-center {
+  -ms-flex-pack: center;
+  -webkit-box-pack: center;
+          justify-content: center;
+}
+
+.uk-flex-right {
+  -ms-flex-pack: end;
+  -webkit-box-pack: end;
+          justify-content: flex-end;
+}
+
+.uk-flex-between {
+  -ms-flex-pack: justify;
+  -webkit-box-pack: justify;
+          justify-content: space-between;
+}
+
+.uk-flex-around {
+  -ms-flex-pack: distribute;
+  justify-content: space-around;
+}
+
