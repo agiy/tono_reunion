@@ -32,7 +32,7 @@
             </div>
         </div>
         <div class="parallax">
-            <img src="/images/top.JPG" class="dark" style="max-height: 100%">
+            <img src="/images/top.jpg" class="dark" style="max-height: 100%">
         </div>
     </div>
 
@@ -56,7 +56,7 @@
                         </div>
                     </div>
                     <div class="parallax blur">
-                        <img class="responsive-img" src="/images/koutei.JPG">
+                        <img class="responsive-img" src="/images/koutei.jpg">
                     </div>
 
                 </div>
@@ -79,7 +79,7 @@
                         </div>
                     </div>
                     <div class="parallax blur">
-                        <img class="responsive-img" src="/images/shin_tai.JPG">
+                        <img class="responsive-img" src="/images/shin_tai.jpg">
                     </div>
 
                 </div>
