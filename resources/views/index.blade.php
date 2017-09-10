@@ -104,7 +104,7 @@
         </div>
 
 
-        <div id="date" class="row t-margin-bottom" style="opacity: 0;">
+        <div id="date" class="row t-margin-bottom">
             <div class="uk-flex uk-flex-center">
                 <div class="s12 m9">
                     <div class="card blue-grey darken-1">
@@ -125,7 +125,7 @@
             </div>
         </div>
 
-        <div id="etc" class="row t-margin-bottom" style="opacity: 0;">
+        <div id="etc" class="row t-margin-bottom">
             <h5 class="center-align">その他</h5>
             <div class="uk-flex uk-flex-center">
                 <div class="s12 m6">
@@ -139,7 +139,7 @@
             </div>
         </div>
 
-        <div id="contact" class="row t-margin-bottom" style="opacity: 0;">
+        <div id="contact" class="row t-margin-bottom">
             <h5 class="center-align">お問い合わせ</h5>
             <div class="uk-flex uk-flex-center">
                 <div class="s12 m6">
@@ -184,21 +184,6 @@
             },
             {
                 selector: '#second', offset: 230, callback: function (el) {
-                Materialize.fadeInImage($(el));
-            }
-            },
-            {
-                selector: '#date', offset: 270, callback: function (el) {
-                Materialize.fadeInImage($(el));
-            }
-            },
-            {
-                selector: '#etc', offset: 300, callback: function (el) {
-                Materialize.fadeInImage($(el));
-            }
-            },
-            {
-                selector: '#contact', offset: 330, callback: function (el) {
                 Materialize.fadeInImage($(el));
             }
             }
