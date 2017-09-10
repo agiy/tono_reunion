@@ -90,3 +90,32 @@
   justify-content: space-around;
 }
 
+/*
+ * Align items in the cross axis of the current line of the flex container
+ * Row: Vertical
+ */
+
+.uk-flex-stretch {
+  -ms-flex-align: stretch;
+  -webkit-box-align: stretch;
+          align-items: stretch;
+}
+
+.uk-flex-top {
+  -ms-flex-align: start;
+  -webkit-box-align: start;
+          align-items: flex-start;
+}
+
+.uk-flex-middle {
+  -ms-flex-align: center;
+  -webkit-box-align: center;
+          align-items: center;
+}
+
+.uk-flex-bottom {
+  -ms-flex-align: end;
+  -webkit-box-align: end;
+          align-items: flex-end;
+}
+
