@@ -126,21 +126,29 @@
         </div>
 
         <div id="etc" class="row t-margin-bottom" style="opacity: 0;">
-            <h5>その他</h5>
-            <p>
-                遠野市内の中学校の方との（同級生に限ります。）合同開催も考えております。
-            </p>
-            <p>
-                そんなご相談も承っております。下記の連絡先まで問い合わせください。
-            </p>
+            <h5 class="center-align">その他</h5>
+            <div class="uk-flex uk-flex-center">
+                <div class="s12 m6">
+                    <p>
+                        遠野市内の中学校の方との（同級生に限ります。）合同開催も考えております。
+                    </p>
+                    <p>
+                        そんなご相談も承っております。下記の連絡先まで問い合わせください。
+                    </p>
+                </div>
+            </div>
         </div>
 
         <div id="contact" class="row t-margin-bottom" style="opacity: 0;">
-            <h5>お問い合わせ</h5>
-            <p>
-                井手君のメール
-                テマナブのメール
-            </p>
+            <h5 class="center-align">お問い合わせ</h5>
+            <div class="uk-flex uk-flex-center">
+                <div class="s12 m6">
+                    <p>
+                        井手君のメール
+                        テマナブのメール
+                    </p>
+                </div>
+            </div>
         </div>
 
         <div id="google-form" class="t-margin-bottom">
