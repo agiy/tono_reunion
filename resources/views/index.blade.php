@@ -152,12 +152,8 @@
             <div class="uk-flex uk-flex-center">
                 <div class="s12 m6">
                     <p>
-                        井手朋哉：gameiden@gmail.com
+                        メールアドレス：tonosamakings1986@gmail.com
                     </p>
-                    <p>
-                        小笠原学：oma_nabuasapon@yahoo.co.jp
-                    </p>
-                    <span class="grey-text">※両名にお送りください。</span>
                 </div>
             </div>
         </div>
