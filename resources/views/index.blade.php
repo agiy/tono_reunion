@@ -13,13 +13,21 @@
             </ul>
 
             <ul class="side-nav" id="mobile-demo">
+                <li><div class="user-view" style="height: 200px">
+                        <div class="background">
+                            <img src="images/end.jpg" style="height: 100%; width: 100%">
+                        </div>
+                    </div>
+                </li>
+                <li><a href="#top">Top</a></li>
+                <li><div class="divider"></div></li>
                 <li><a href="#contact">Contact</a></li>
                 <li><a href="#google-form">Form</a></li>
             </ul>
         </div>
     </nav>
 
-    <div class="parallax-container t-margin-bottom">
+    <div id="top" class="parallax-container t-margin-bottom">
         <div class="section">
             <div class="container">
                 <br><br>
