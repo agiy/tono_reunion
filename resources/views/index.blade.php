@@ -118,14 +118,17 @@
                     <div class="card blue-grey darken-1">
                         <div class="card-content white-text">
                             <span class="card-title center-align">開催日時（仮）</span>
-                            <p>
-                                日時：平成30年１月２日（火） 18：00～
-                            </p>
-                            <p>
+                            <p>日時：平成30年1月2日（火）</p>
+                            <p> 受付：17:30〜</p>
+                            <p>開会：18:00〜</p>
+                            <p style="margin-top: 10px">
                                 場所：あえりあ遠野中ホール
                             </p>
-                            <p>
+                            <p style="margin-top: 10px; margin-bottom: 20px">
                                 参加費：7,000円
+                            </p>
+                            <p>
+                                ※ 当日は厄祓いを行いますので、それに相応しい服装でお願いします。(スーツなど)
                             </p>
                         </div>
                     </div>
