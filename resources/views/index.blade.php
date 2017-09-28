@@ -162,6 +162,7 @@
         </div>
 
         <div id="google-form" class="t-margin-bottom">
+            <h5 class="center-align orange-text">申し込み締め切り：11月末</h5>
             <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSduBvUfhW7XphgI3EAeoFGpMnObDnZR4LNsA3N9UIw_h8TdbQ/viewform?embedded=true" width="100%" height="1379" frameborder="0" marginheight="0" marginwidth="0">読み込んでいます...</iframe>
         </div>
     </div>
