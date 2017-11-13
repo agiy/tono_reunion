@@ -117,7 +117,7 @@
                 <div class="s12 m9">
                     <div class="card blue-grey darken-1">
                         <div class="card-content white-text">
-                            <span class="card-title center-align">開催日時（仮）</span>
+                            <span class="card-title center-align">開催日時</span>
                             <p>日時：平成30年1月2日（火）</p>
                             <p> 受付：17:30〜</p>
                             <p>開会：18:00〜</p>
